@@ -1,0 +1,52 @@
+.NavigationItems {
+    margin: 18% 0;
+    color: #ccc;
+    text-transform: uppercase;
+    font-size: 0.65em;
+    text-align: left;
+}
+
+.active {
+    color: white;
+    font-weight: bold;
+}
+
+.yellowBar{
+    border-left: 2px solid yellow;
+}
+
+.NavigationItems ul {
+    list-style: none;
+    width: 100%;
+}
+
+.NavigationItems ul li:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.NavigationItems ul li {
+    margin: 12% 9%;
+    width: 100%;
+}
+
+.Icons {
+    font-size: 1.5em;
+    margin: -1% 10% 0 0;
+    font-weight: bold;
+}
+
+.innerUL {
+    margin-left: 23%;
+}
+
+.Badge {
+    margin-left: 15%;
+    color: white !important;
+    background-color: rgb(247, 108, 57) !important;
+    border-radius: 50% !important;
+    -webkit-border-radius: 50% !important;
+    -moz-border-radius: 50% !important;
+    -ms-border-radius: 50% !important;
+    -o-border-radius: 50% !important;
+}

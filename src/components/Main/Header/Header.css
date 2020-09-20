@@ -1,0 +1,77 @@
+.Header {
+    padding: 2.9%;
+    justify-content: space-between;
+    height: 30px;
+}
+.HeadingDiv {
+    width: 40%;
+}
+.BestTenders {
+    color: rgb(148, 147, 147);
+    font-size: 0.95em;
+    margin-left: 10%;
+}
+
+.BadgeHeader {
+    color: white !important;
+    background-color: rgb(226, 23, 8) !important;
+    transform: scale(0.7);
+}
+
+.rightHeader {
+    display: flex;
+    justify-content: space-evenly;
+    width: 35%;
+}
+
+.IconBell {
+    color: rgb(121, 118, 118);
+    font-size: 0.9em;
+    margin-left: 0%;
+}
+
+.InputDiv {
+    position: relative;
+}
+
+.InputIcon {
+    position: absolute;
+    font-size: 0.8em;
+    margin-top: 3%;
+    left: 2%;
+    color: rgb(121, 118, 118);
+}
+
+.Input {
+    height: 20px;
+    padding: 13px 8px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    outline: none;
+    border: none;
+    box-shadow: 2px 2px 10px #ccc;
+    align-items: center;
+}
+
+::placeholder {
+    color: rgb(121, 118, 118);
+    font-size: 0.95em;
+}
+
+.Avatar {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.rightHeader h5 {
+    font-size: 0.7em;
+    margin: 10%;
+}

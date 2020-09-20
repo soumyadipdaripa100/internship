@@ -1,0 +1,55 @@
+.Card {
+    height: auto;
+    width: 80%;
+    margin: 6% 6%;
+    padding: 30px 20px;
+    background-color: white;
+    box-shadow: 0 0 5px #ccc;
+    text-align: center;
+}
+
+.Card h5 {
+    font-size: 0.9em;
+    color: rgb(121, 118, 118);
+}
+.ImgDiv {
+    height: 50px;
+    width: 150px;
+    margin: 30px auto;
+}
+.Card img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+.Card h4 {
+    font-size: 1.3em;
+    font-weight: 400 !important;
+}
+
+.yellow {
+    color: rgb(245, 182, 100);
+}
+
+.gray {
+    color:#ccc;
+}
+
+.Card .Price {
+    margin-top: 8%;
+}
+
+.Card p {
+    margin: 0;
+    font-size: 0.9em;
+}
+
+.Card p:nth-child(1) {
+    color: rgb(146, 144, 144);
+    font-weight: bold;
+}
+
+.Card p:nth-child(2) {
+    color: #ccc;
+}
+

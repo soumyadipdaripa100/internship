@@ -1,0 +1,63 @@
+.appleDiv {
+    background-color: rgba(255, 255, 255, 0.096);
+    padding: 10px 10px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    width: 100%;
+    height: auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.LogoDiv {
+    background-color: rgba(255, 255, 255, 0.253);
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    position: relative;
+    margin: 3%;
+}
+
+.Logo {
+    position: absolute;
+    font-size: 1.7em;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+}
+
+.desc {
+    margin: 3% 3%;
+}
+
+.desc p {
+    margin: 0;
+    padding: 0;
+    text-transform: none;
+}
+.p1 {
+    font-size: 0.7rem;
+}
+.p2 {
+    font-size: 0.6rem;
+    color: #ccc;
+}
+.p3 {
+    margin: 7% 0;
+    font-size: 0.5rem;
+    color: #ccc;
+    text-transform: none;
+}

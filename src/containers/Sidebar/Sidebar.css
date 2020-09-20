@@ -1,0 +1,15 @@
+.Sidebar {
+    width: 100%;
+    height: 100vh;
+    padding: 20px;
+    background: linear-gradient(to bottom, rgb(130, 182, 250), rgb(7, 66, 175));
+    position: relative;
+}
+
+.tenderfarm {
+    color: white;
+    font-weight: bold;
+    font-size: 0.95em;
+    text-align: center;
+    margin: 6% 25% 0 0;
+}
